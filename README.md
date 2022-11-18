@@ -1,1 +1,1 @@
-![](Screenshots/1. GET- Dase page.png.png)
+![](Screenshots/1.%20GET-%20Dase%20page.png)
