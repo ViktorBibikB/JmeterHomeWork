@@ -1,0 +1,5 @@
+![](Screenshots/1_GET_Base_page.png)
+![](Screenshots/2_GET_Search_Product_from_list.png)
+![](Screenshots/3_GET_Product_page.png)
+![](Screenshots/4_POST_Add_product_to_cart.png)
+![](Screenshots/5_GET_Cart_page.png)
